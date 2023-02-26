@@ -1,0 +1,10 @@
+MASTER_NAME = master
+MASTER_PASSWORD = #password
+DOMAIN_ENDPOINT = https://search-restaurants-4ktblvmo6acuagteij2h6ks26u.us-east-1.es.amazonaws.com
+JSON_FILENAME = yelp_data.json
+
+curl -XPOST -u [MASTER_NAME]:[MASTER_PASSWORD] [DOMAIN_ENDPOINT]/_bulk --
+data-binary @[JSON_FILENAME] -H 'Content-Type: application/json'
+
+
+curl -XPOST -u master:#password https://search-restaurants-4ktblvmo6acuagteij2h6ks26u.us-east-1.es.amazonaws.com/_bulk --data-binary @yelp_data.json -H 'Content-Type: application/json'
