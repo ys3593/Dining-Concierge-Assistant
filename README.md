@@ -1,7 +1,5 @@
 # Assignment 1: Dining-Concierge-Assistant
 
-Done by: Yaochen Shen
-
 S3 frontend URL:
 ----
 https://s3.amazonaws.com/cs6998chatbot.com/chat.html
