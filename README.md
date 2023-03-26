@@ -1,6 +1,6 @@
 # Assignment 1: Dining-Concierge-Assistant
 
-Done by: Yaochen Shen (ys3593)
+Done by: Yaochen Shen
 
 S3 frontend URL:
 ----
