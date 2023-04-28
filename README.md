@@ -1,4 +1,4 @@
-# Assignment 1: Dining-Concierge-Assistant
+# Dining Concierge Assistant
 
 S3 frontend URL:
 ----
@@ -21,5 +21,7 @@ Directory:
   - step2_upload.txt: upload yelp_data.json to ElasticSearch
   - yelp_data.csv
   - yelp_data.json
-
-
+ 
+Architecture：
+----
+<img width="602" alt="Screenshot 2023-02-07 at 3 21 54 PM" src="https://user-images.githubusercontent.com/123121874/235216310-6d4c32ef-568d-4123-afc7-7b100007b23c.png">
